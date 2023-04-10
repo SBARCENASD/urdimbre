@@ -177,8 +177,9 @@
 }
 
 .urdimbreLogo{
-    max-width: 310px;
-    min-width: 210px;
+    max-width: 250px;
+    height: auto
+    /* min-width: 210px; */
 }
 
 .carousel-indicators li{
