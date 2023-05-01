@@ -177,7 +177,7 @@
 }
 
 .urdimbreLogo{
-    max-width: 250px;
+    max-width: 300px;
     height: auto
     /* min-width: 210px; */
 }
@@ -186,4 +186,12 @@
     background-color: #666;
     width: 20px;
     height: 5px;
+}
+
+
+.max-vw-30 {
+    max-width: 30vw !important
+}
+.mw-30 {
+    max-width: 30% !important
 }
