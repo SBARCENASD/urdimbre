@@ -172,6 +172,15 @@
 .mw-600 {
     max-width: 600px;
 }
+.mh-300 {
+    max-height: 300px;
+}
+.mh-400 {
+    max-height: 400px;
+}
+.mw-400 {
+    max-width: 400px;
+}
 .mw-80{
     max-width: 80%;
 }
